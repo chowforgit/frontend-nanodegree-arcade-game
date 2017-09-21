@@ -70,7 +70,7 @@ var Engine = (function(global) {
 
     // 调用app.js中的碰撞函数
     function checkCollisions(){
-        player.checkCollisions()
+        player.checkCollisions();
     }
 
 
