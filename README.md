@@ -3,6 +3,7 @@
 
 # 如何运行
 下载项目，然后用浏览器打开 index.html
+
 或者直接打开链接https://chowforgit.github.io/frontend-nanodegree-arcade-game/
 
 # 基础操作
